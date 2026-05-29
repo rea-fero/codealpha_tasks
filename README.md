@@ -4,7 +4,7 @@ This repository serves as a documentation of the projects I am developing during
 
 📁 Projects Overview
 
-1.Student Grade Tracker (Task 1)
+***1.Student Grade Tracker (Task 1)***
 
 For this first task, I built a desktop application that helps teachers or administrators track student performance. Instead of a simple console-based program, I decided to implement a Graphical User Interface (GUI) using Java Swing to make it more interactive and practical.
 
@@ -31,7 +31,8 @@ Run the application:
 java StudentGradeTrackerGUI
 
 
-2.Hotel Reservation System (Task 2)
+
+***2.Hotel Reservation System (Task 2)***
 
 For this second task, I built a console program that works like a hotel booking system.It allows users to search for rooms, make a booking, and save the information for later.
 
