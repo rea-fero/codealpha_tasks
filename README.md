@@ -30,6 +30,7 @@ Run the application:
 
 java StudentGradeTrackerGUI
 
+
 2.Hotel Reservation System (Task 2)
 
 For this second task, I built a console program that works like a hotel booking system.It allows users to search for rooms, make a booking, and save the information for later.
